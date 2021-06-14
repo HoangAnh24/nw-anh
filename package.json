@@ -1,0 +1,23 @@
+{
+  "name": "anh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nightwatch"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "chromedriver": "^91.0.1",
+    "nightwatch": "^1.7.3"
+  }
+}
